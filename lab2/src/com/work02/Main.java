@@ -1,4 +1,4 @@
-package com.labs;
+package com.work02;
 
 public class Main {
 

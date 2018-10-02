@@ -1,4 +1,4 @@
-package com.labs;
+package com.work02;
 
 import java.util.List;
 import java.util.ArrayList;

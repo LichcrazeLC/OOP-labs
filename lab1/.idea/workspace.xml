@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="408f585a-9d31-44f7-882d-f5854bef5d35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../lab_01/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/.idea/lab_01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/src/lab_01_task_01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/src/lab_01_task_01/Utilities.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/src/lab_01_task_01/monitor_class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/src/lab_01_task_02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/src/lab_01_task_02/student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_01/src/lab_01_task_02/university.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_03/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/labs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/work01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/labs/Monitor_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/work01/Monitor_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/labs/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/work01/Utilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +18,11 @@
     <session id="1097566945">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -64,16 +50,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/labs/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/work01/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="24" />
+              <caret line="23" selection-start-line="23" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/labs/Utilities.java">
+        <entry file="file://$PROJECT_DIR$/src/com/work01/Utilities.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
@@ -82,7 +68,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/labs/Monitor_class.java">
+        <entry file="file://$PROJECT_DIR$/src/com/work01/Monitor_class.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
               <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
@@ -108,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/com/labs/Monitor_class.java" />
         <option value="$PROJECT_DIR$/src/com/labs/Utilities.java" />
         <option value="$PROJECT_DIR$/src/com/labs/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/work01/Main.java" />
       </list>
     </option>
   </component>
@@ -131,6 +118,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,8 +131,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,7 +153,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.labs.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.work01.Main" />
       <module name="lab1" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -194,16 +181,17 @@
       <workItem from="1537864476444" duration="2052000" />
       <workItem from="1537866943467" duration="246000" />
       <workItem from="1537867468426" duration="689000" />
+      <workItem from="1538114326198" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2987000" />
+    <option name="totallyTimeSpent" value="3046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="-8" width="1858" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25528365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,21 +234,21 @@
     <entry file="file://$PROJECT_DIR$/../lab_01/src/lab_01_task_02/university.java" />
     <entry file="file://$PROJECT_DIR$/../lab_01/src/lab_01_task_02/student.java" />
     <entry file="file://$PROJECT_DIR$/../lab_01/src/lab_01_task_02/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/labs/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/work01/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="24" />
+          <caret line="23" selection-start-line="23" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/labs/Utilities.java">
+    <entry file="file://$PROJECT_DIR$/src/com/work01/Utilities.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/labs/Monitor_class.java">
+    <entry file="file://$PROJECT_DIR$/src/com/work01/Monitor_class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
